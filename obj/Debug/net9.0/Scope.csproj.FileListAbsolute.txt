@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Scope\bin\Debug\net9.0\Scope.exe
+C:\Users\gabri\OneDrive\Desktop\Scope\bin\Debug\net9.0\Scope.deps.json
+C:\Users\gabri\OneDrive\Desktop\Scope\bin\Debug\net9.0\Scope.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Scope\bin\Debug\net9.0\Scope.dll
+C:\Users\gabri\OneDrive\Desktop\Scope\bin\Debug\net9.0\Scope.pdb
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\Scope.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\Scope.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\Scope.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\Scope.dll
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\refint\Scope.dll
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\Scope.pdb
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\Scope.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Scope\obj\Debug\net9.0\ref\Scope.dll
